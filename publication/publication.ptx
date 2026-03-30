@@ -23,10 +23,9 @@
     <!-- project).                                                           -->
       <!--<exercise-inline statement="yes" hint="yes" answer="no" solution="no" />-->
       <!--<exercise-divisional statement="yes" hint="yes" answer="no" solution="yes" />-->
-      <!--<exercise-worksheet statement="yes" hint="yes" answer="no" solution="no" />-->
+      <!--exercise-worksheet statement="yes" hint="no" answer="no" solution="no" />-->
       <!--<exercise-reading statement="yes" hint="yes" answer="no" solution="no" />-->
       <!--<exercise-project statement="yes" hint="yes" answer="yes" solution="yes" />-->
-
     <!-- Style of fill-in-the-blanks: -->
       <!--<fillin textstyle="underline" mathstyle="shade" />-->
 
