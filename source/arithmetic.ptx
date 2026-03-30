@@ -31,7 +31,7 @@
                 These operations include addition, subtraction, multiplication, and division.
             </p>
         </introduction>
-        <exercise>
+        <exercise workspace=".1in">
             <statement>
                 <p>
                     <m>70,114 + 222</m>
